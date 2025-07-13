@@ -51,3 +51,5 @@ Este projeto tem fins educacionais, mas sugestões de melhorias e novas ideias s
 
 ---
 
+OBS: ESTOU  TRABALHANDO NO PROJETO NA VERSÃO PC, A VERSÃO MOBILE ESTÁ FINALIZADA.
+
